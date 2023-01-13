@@ -1,4 +1,4 @@
-# Minimal-HTTP(S)Server
+# Minimal-HTTP(S)Server in C
 
 A minimal http(s) server that support php cgi and python cgi
 
