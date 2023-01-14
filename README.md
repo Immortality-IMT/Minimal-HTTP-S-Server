@@ -1,6 +1,6 @@
 # Minimal-HTTP(S)Server in C
 
-A minimal http(s) server that support php cgi and python cgi
+A minimal http(s) server that supports php cgi and python cgi
 
 A minimalist code base implementing either a http or https server. The code bases are identical except for the SSL alterations.
 
